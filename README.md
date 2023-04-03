@@ -2,6 +2,13 @@
 
 Travel app
 
+Screenshots : 
+
+<p align="center">
+  <img src="https://github.com/allouchenejmeddine/travelAgencyApp/blob/master/assets/images/splashscreen.jpg" width="150" title="Splash Screen">
+  <img src="https://github.com/allouchenejmeddine/travelAgencyApp/blob/master/assets/images/splashscreen.jpg" width="150" title="Splash Screen">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
