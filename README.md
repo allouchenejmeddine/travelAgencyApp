@@ -6,7 +6,18 @@ Screenshots :
 
 <p align="center">
   <img src="https://github.com/allouchenejmeddine/travelAgencyApp/blob/master/assets/images/splashscreen.jpg" width="150" title="Splash Screen">
-  <img src="https://github.com/allouchenejmeddine/travelAgencyApp/blob/master/assets/images/splashscreen.jpg" width="150" title="Splash Screen">
+</p>
+
+<p align="center">
+  <img src="https://github.com/allouchenejmeddine/travelAgencyApp/blob/master/assets/images/homepage.jpg" width="150" title="Home screen">
+</p>
+
+<p align="center">
+  <img src="https://github.com/allouchenejmeddine/travelAgencyApp/blob/master/assets/images/detailspage.jpg" width="150" title="Details screen">
+</p>
+
+<p align="center">
+  <img src="https://github.com/allouchenejmeddine/travelAgencyApp/blob/master/assets/images/menu.jpg" width="150" title="Side Menu">
 </p>
 
 ## Getting Started
